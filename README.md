@@ -18,6 +18,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Offical Website](https://hasura.io/)
 - [Docs](https://docs.hasura.io/1.0/graphql/manual/index.html)
 - [GitHub](https://github.com/hasura/graphql-engine)
+- [Discord](https://discord.gg/hasura)
 
 
 ## Tools and Extensions
@@ -26,6 +27,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Hasura JWT Auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
 - [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) - Configure Hasura to track tables, views and functions using configuration driven process.
 - [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI Utlity to squash Hasura Migrations
+- [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) - The easiest way to connect hasura and segment!
 
 ## Templates and Examples
 - [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) - Communited Contributed boilerplates, example apps, todls.
