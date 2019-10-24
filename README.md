@@ -1,6 +1,6 @@
-# Awesome Hasua
+# Awesome Hasura
 
->  A curated list of aweomse things relating to the [hasura](https://hasura.io) ecosystem.
+>  A curated list of awesome things related to the [hasura](https://hasura.io) ecosystem.
 
 
 ## Contents
@@ -29,16 +29,20 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI Utlity to squash Hasura Migrations
 - [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) - The easiest way to connect hasura and segment!
 
+## Tutorials
+
+- [Learn](https://learn.hasura.io)
+
 ## Templates and Examples
-- [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) - Communited Contributed boilerplates, example apps, todls.
+- [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) - Communited Contributed boilerplates, example apps, todos.
 - [NextJS - Auth0 - Hasura](https://github.com/vgrafe/nextjs-auth0-hasura) - Template project with NextJs, Auth0, Hasura and Apollo.
 - [Rust Hasura](https://github.com/ronanyeah/rust-hasura) - Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.
 
 ## Managed Services
-- [nHoist](https://nhost.io/) - Hasura as a Service!
+- [nHost](https://nhost.io/) - Hasura as a Service!
 
 ## Blogs
 
  - [Migrating from Firebase to Hasura](https://medium.com/@clapie.florent/how-i-scale-firebase-by-migrating-to-graphql-and-speed-up-my-development-by-10x-200b4a3068a0?sk=cf4a748bfa93d061ad84fd194d5e87bb)
- - [Resetting Hasura Migraitons](https://blog.hasura.io/resetting-hasura-migrations/)
+ - [Resetting Hasura Migrations](https://blog.hasura.io/resetting-hasura-migrations/)
 
