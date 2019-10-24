@@ -34,7 +34,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Learn](https://learn.hasura.io)
 
 ## Templates and Examples
-- [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) - Communited Contributed boilerplates, example apps, todos.
+- [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) - Community Contributed boilerplates, example apps, and todos.
 - [NextJS - Auth0 - Hasura](https://github.com/vgrafe/nextjs-auth0-hasura) - Template project with NextJs, Auth0, Hasura and Apollo.
 - [Rust Hasura](https://github.com/ronanyeah/rust-hasura) - Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.
 
