@@ -8,6 +8,8 @@
 - [Hasura](#hasura)
 - [Tools and Extensions](#tools-and-extensions)
 - [Tutorials](#tutorials)
+- [Templates and Examples](#templates-and-examples)
+- [Managed Services](#managed-services)
 - [Blogs](#blogs)
 
 
