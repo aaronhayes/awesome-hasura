@@ -32,6 +32,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 ## Tutorials
 
 - [Learn](https://learn.hasura.io)
+- [Production Checklist](https://docs.hasura.io/1.0/graphql/manual/deployment/production-checklist.html)
 
 ## Templates and Examples
 - [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) - Community Contributed boilerplates, example apps, and todos.
