@@ -21,6 +21,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Docs](https://docs.hasura.io/1.0/graphql/manual/index.html)
 - [GitHub](https://github.com/hasura/graphql-engine)
 - [Discord](https://discord.gg/hasura)
+- [Blog](https://blog.hasura.io/)
 
 
 ## Tools and Extensions
