@@ -31,6 +31,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) - Configure Hasura to track tables, views and functions using configuration driven process.
 - [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI Utlity to squash Hasura Migrations
 - [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) - The easiest way to connect hasura and segment!
+- [hasura-cli](https://github.com/jjangga0214/hasura-cli) - Hasura CLI as an npm package
 
 ## Tutorials
 
