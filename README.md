@@ -1,4 +1,4 @@
-# Awesome Hasura
+# ![Awesome Hasura](asset/awesome-hasura.svg)
 
 >  A curated list of awesome things related to the [hasura](https://hasura.io) ecosystem.
 
