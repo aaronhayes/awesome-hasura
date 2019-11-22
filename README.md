@@ -26,8 +26,8 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Hasura Backend Plus](https://github.com/elitan/hasura-backend-plus) - Auth + Storage for Hasura.
 - [Hasura JWT Auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
 - [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) - Configure Hasura to track tables, views and functions using configuration driven process.
-- [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI Utlity to squash Hasura Migrations
-- [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) - The easiest way to connect hasura and segment!
+- [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI utility to squash Hasura Migrations
+- [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) - The easiest way to connect Hasura and Segment!
 - [hasura-cli](https://github.com/jjangga0214/hasura-cli) - Hasura CLI as an npm package
 
 ## Tutorials
