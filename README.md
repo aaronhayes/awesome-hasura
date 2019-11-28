@@ -30,6 +30,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) - The easiest way to connect Hasura and Segment!
 - [hasura-cli](https://github.com/jjangga0214/hasura-cli) - Hasura CLI as an npm package
 - [Hasura Connect](https://github.com/Flutterando/hasura_connect) - A client library to talk to Hasura from Flutter/Dart apps
+- [graphql-codegen-hasura](https://github.com/ahrnee/graphql-codegen-hasura) - code-generator plugins for hasura/apollo-gql/typescript development
 
 ## Tutorials
 
