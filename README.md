@@ -33,6 +33,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [hasura-cli](https://github.com/jjangga0214/hasura-cli) - Hasura CLI as an npm package
 - [Hasura Connect](https://github.com/Flutterando/hasura_connect) - A client library to talk to Hasura from Flutter/Dart apps
 - [graphql-codegen-hasura](https://github.com/ahrnee/graphql-codegen-hasura) - code-generator plugins for hasura/apollo-gql/typescript development
+- [HasuraConfigurator](https://github.com/beepsoft/hasuraconf) - Configure a Hasura server based on Java JPA (Hibernate) annotations
 
 ## Tutorials
 
