@@ -37,7 +37,6 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [HasuraConfigurator](https://github.com/beepsoft/hasuraconf) - Configure a Hasura server based on Java JPA (Hibernate) annotations
 - [React Admin Hasura Adapter](https://github.com/Steams/ra-data-hasura-graphql) - [react-admin](https://marmelab.com/react-admin/) data provider for Hasura GraphQL (build admin interfaces with very little code) 
 - [hasura-orm](https://github.com/timeshift92/hasura-orm) - orm based request generator 
-- [Authway](https://github.com/pnfcre/authway) - Authentication server for Hasura that does the job 💪
 
 ## Tutorials
 
