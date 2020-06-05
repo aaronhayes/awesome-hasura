@@ -43,6 +43,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 - [Learn](https://learn.hasura.io)
 - [Production Checklist](https://docs.hasura.io/1.0/graphql/manual/deployment/production-checklist.html)
+- [Lucky Hasura Docker](https://github.com/KCErb/lucky-hasura-docker) - Guide / Tutorial / Boilerplate for using [Lucky](https://luckyframework.org/) for business logic and Hasura for GraphQL in Docker. Includes production-ready monitoring and automatic deployment / DB management.
 
 ## Templates and Examples
 
