@@ -38,6 +38,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [React Admin Hasura Adapter](https://github.com/Steams/ra-data-hasura-graphql) - [react-admin](https://marmelab.com/react-admin/) data provider for Hasura GraphQL (build admin interfaces with very little code) 
 - [hasura-orm](https://github.com/timeshift92/hasura-orm) - orm based request generator 
 - [hasura-om](https://github.com/mrspartak/hasura-om) - Fragment based orm request generator with built in auto-table lookup and base fragment builder. Also comes with a query/mutation/subscribe libraries built in
+- [hql-tag](https://github.com/product-ride/hql-tag) - A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries
 
 ## Tutorials
 
