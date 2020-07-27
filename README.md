@@ -26,7 +26,6 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Tools and Extensions
 
-- [hql-tag](https://github.com/product-ride/hql-tag) - A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries
 - [Hasura Backend Plus](https://github.com/elitan/hasura-backend-plus) - Auth + Storage for Hasura.
 - [Hasura JWT Auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
 - [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) - Configure Hasura to track tables, views and functions using configuration driven process.
@@ -39,6 +38,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [React Admin Hasura Adapter](https://github.com/Steams/ra-data-hasura-graphql) - [react-admin](https://marmelab.com/react-admin/) data provider for Hasura GraphQL (build admin interfaces with very little code) 
 - [hasura-orm](https://github.com/timeshift92/hasura-orm) - orm based request generator 
 - [hasura-om](https://github.com/mrspartak/hasura-om) - Fragment based orm request generator with built in auto-table lookup and base fragment builder. Also comes with a query/mutation/subscribe libraries built in
+- [hql-tag](https://github.com/product-ride/hql-tag) - A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries
 
 ## Tutorials
 
