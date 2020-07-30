@@ -39,6 +39,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [hasura-orm](https://github.com/timeshift92/hasura-orm) - orm based request generator 
 - [hasura-om](https://github.com/mrspartak/hasura-om) - Fragment based orm request generator with built in auto-table lookup and base fragment builder. Also comes with a query/mutation/subscribe libraries built in
 - [hql-tag](https://github.com/product-ride/hql-tag) - A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries
+- [hasura-sdk](https://github.com/aaronhayes/hasura-sdk) - A node wrapper for Hasura's schema and metadata API's, written in TypeScript. 
 
 ## Tutorials
 
