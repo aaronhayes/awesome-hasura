@@ -61,6 +61,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 ## Managed Services
 
 - [nHost](https://nhost.io/) - Hasura as a Service!
+- [Hasura Cloud](https://hasura.io/cloud) - Fully managed, production ready GraphQL API as a service to help you build modern apps faster. Get started in 30 seconds!
 
 ## Blogs
 
