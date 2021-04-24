@@ -42,6 +42,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [hasura-sdk](https://github.com/aaronhayes/hasura-sdk) - A node wrapper for Hasura's schema and metadata API's, written in TypeScript. 
 - [hasura-metadata-patcher](https://github.com/puzl-ee/hasura-metadata-patcher) - CLI tool to patch Hasura `metadata.json` file with needed objects or with another Hasura metadata file. You can use it to deploy complex CI/CD flows for applications, which are using Hasura on a backend.
 - [Hasura Helm chart](https://github.com/platyplus/platyplus/tree/master/charts/hasura) - Deploy Hasura on a [Kubernetes](https://kubernetes.io/) cluster with [Helm](https://helm.sh/).
+- [hasura-supertokens](https://github.com/offscriptio/hasura-supertokens) - A webhook implementation to connect Hasura with [Supertokens](https://supertokens.io/) for role-based authentication.
 
 ## Tutorials
 
