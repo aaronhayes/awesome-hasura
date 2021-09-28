@@ -45,6 +45,9 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [hasura-supertokens](https://github.com/offscriptio/hasura-supertokens) - A webhook implementation to connect Hasura with [Supertokens](https://supertokens.io/) for role-based authentication.
 - [xsura](https://github.com/joaom182/xsura) Migrate data smoothly between two Hasura servers
 
+## Built with Hasura
+- [MLCraft](https://github.com/mlcraft-io/mlcraft) Low-code metrics store and an Open Source alternative to Looker
+
 ## Tutorials
 
 - [Learn](https://learn.hasura.io)
