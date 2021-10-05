@@ -62,7 +62,6 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Rust Hasura](https://github.com/ronanyeah/rust-hasura) - Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.
 - [Hasura Starter](https://github.com/jjangga0214/hasura-starter) - A bolerplate, cheatsheet, and guide for beginners.
 - [Pulumi AWS EKS Deployment Sample](https://github.com/aaronhayes/pulumi-hasura-aws-eks-example) - A guide for deploying Hasura to AWS EKS using [Pulumi](https://www.pulumi.com/).
-- [Hasura Starter](https://github.com/jjangga0214/hasura-starter) - A bolierplate, cheatsheet, and guide for beginners.
 - [hasura-node-monolith-example](https://github.com/zenflow/hasura-node-monolith-example) - Example of a monolithic web application using Hasura GraphQL Engine + Node.js + Next.js
 
 ## Managed Services
