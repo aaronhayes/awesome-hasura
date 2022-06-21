@@ -1,4 +1,5 @@
 # Awesome Hasura
+
 # ![Awesome Hasura](asset/awesome-hasura.svg)
 
 > A curated list of awesome things related to the [hasura](https://hasura.io) ecosystem.
@@ -26,7 +27,8 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Tools and Extensions
 
-- [Hasura Backend Plus](https://github.com/elitan/hasura-backend-plus) - Auth + Storage for Hasura.
+- [Hasura Auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. Email+Password, Magic Link, Providers (Google, GitHub, Facebook, etc).
+- [Hasura Storage](https://github.com/nhost/hasura-storage) - Storage for Hasura Storage for Hasura built on top of S3
 - [Hasura JWT Auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
 - [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) - Configure Hasura to track tables, views and functions using configuration driven process.
 - [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI utility to squash Hasura Migrations
@@ -35,19 +37,20 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [Hasura Connect](https://github.com/Flutterando/hasura_connect) - A client library to talk to Hasura from Flutter/Dart apps
 - [graphql-codegen-hasura](https://github.com/ahrnee/graphql-codegen-hasura) - code-generator plugins for hasura/apollo-gql/typescript development
 - [HasuraConfigurator](https://github.com/beepsoft/hasuraconf) - Configure a Hasura server based on Java JPA (Hibernate) annotations
-- [React Admin Hasura Adapter](https://github.com/Steams/ra-data-hasura-graphql) - [react-admin](https://marmelab.com/react-admin/) data provider for Hasura GraphQL (build admin interfaces with very little code) 
-- [hasura-orm](https://github.com/timeshift92/hasura-orm) - orm based request generator 
+- [React Admin Hasura Adapter](https://github.com/Steams/ra-data-hasura-graphql) - [react-admin](https://marmelab.com/react-admin/) data provider for Hasura GraphQL (build admin interfaces with very little code)
+- [hasura-orm](https://github.com/timeshift92/hasura-orm) - orm based request generator
 - [hasura-om](https://github.com/mrspartak/hasura-om) - Fragment based orm request generator with built in auto-table lookup and base fragment builder. Also comes with a query/mutation/subscribe libraries built in
 - [hql-tag](https://github.com/product-ride/hql-tag) - A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries
-- [hasura-sdk](https://github.com/aaronhayes/hasura-sdk) - A node wrapper for Hasura's schema and metadata API's, written in TypeScript. 
+- [hasura-sdk](https://github.com/aaronhayes/hasura-sdk) - A node wrapper for Hasura's schema and metadata API's, written in TypeScript.
 - [hasura-metadata-patcher](https://github.com/puzl-ee/hasura-metadata-patcher) - CLI tool to patch Hasura `metadata.json` file with needed objects or with another Hasura metadata file. You can use it to deploy complex CI/CD flows for applications, which are using Hasura on a backend.
 - [Hasura Helm chart](https://github.com/platyplus/platyplus/tree/master/charts/hasura) - Deploy Hasura on a [Kubernetes](https://kubernetes.io/) cluster with [Helm](https://helm.sh/).
 - [hasura-supertokens](https://github.com/offscriptio/hasura-supertokens) - A webhook implementation to connect Hasura with [Supertokens](https://supertokens.io/) for role-based authentication.
 - [xsura](https://github.com/joaom182/xsura) Migrate data smoothly between two Hasura servers
 - [fastify-hasura](https://github.com/ManUtopiK/fastify-hasura) - A Fastify plugin to have fun with Hasura.
-- [Hasura Change Summary](https://github.com/marketplace/actions/hasura-change-summary) - GitHub Action to generate readable Hasura metadata change summaries. 
+- [Hasura Change Summary](https://github.com/marketplace/actions/hasura-change-summary) - GitHub Action to generate readable Hasura metadata change summaries.
 
 ## Built with Hasura
+
 - [MLCraft](https://github.com/mlcraft-io/mlcraft) Low-code metrics store and an Open Source alternative to Looker
 
 ## Tutorials
@@ -68,7 +71,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Managed Services
 
-- [nHost](https://nhost.io/) - Hasura as a Service!
+- [Nhost](https://nhost.io/) - Open Source Firebase Alternative with GraphQL. Includes: Hasura, Postgres, Authentication, Storage, Serverless Functions.
 - [Hasura Cloud](https://hasura.io/cloud) - Fully managed, production ready GraphQL API as a service to help you build modern apps faster. Get started in 30 seconds!
 
 ## Blogs
