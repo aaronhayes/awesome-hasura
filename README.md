@@ -28,7 +28,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 ## Tools and Extensions
 
 - [Hasura Auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. Email+Password, Magic Link, Providers (Google, GitHub, Facebook, etc).
-- [Hasura Storage](https://github.com/nhost/hasura-storage) - Storage for Hasura Storage for Hasura built on top of S3
+- [Hasura Storage](https://github.com/nhost/hasura-storage) - Storage for Hasura. Built on top of S3.
 - [Hasura JWT Auth](https://github.com/sander-io/hasura-jwt-auth) - Hasura JWT auth using PostgreSQL
 - [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) - Configure Hasura to track tables, views and functions using configuration driven process.
 - [Hasura Squasher](https://github.com/domasx2/hasura-squasher) - CLI utility to squash Hasura Migrations
