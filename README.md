@@ -48,6 +48,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 - [xsura](https://github.com/joaom182/xsura) Migrate data smoothly between two Hasura servers
 - [fastify-hasura](https://github.com/ManUtopiK/fastify-hasura) - A Fastify plugin to have fun with Hasura.
 - [Hasura Change Summary](https://github.com/marketplace/actions/hasura-change-summary) - GitHub Action to generate readable Hasura metadata change summaries.
+- [Hasura permissions viewer](https://github.com/socialgouv/hasura-permissions-viewer) - Generate an HTML summary of hasura permissions
 
 ## Built with Hasura
 
