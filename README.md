@@ -53,6 +53,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 ## Built with Hasura
 
 - [MLCraft](https://github.com/mlcraft-io/mlcraft) Low-code metrics store and an Open Source alternative to Looker
+- [Pet finder project with Flutter + Firebase + Hasura](https://github.com/comerc/pet_finder) Pet finder project with Flutter + Firebase + Hasura
 
 ## Tutorials
 
