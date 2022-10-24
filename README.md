@@ -6,12 +6,17 @@
 
 ## Contents
 
-- [Hasura](#hasura)
-- [Tools and Extensions](#tools-and-extensions)
-- [Tutorials](#tutorials)
-- [Templates and Examples](#templates-and-examples)
-- [Managed Services](#managed-services)
-- [Blogs](#blogs)
+- [Awesome Hasura](#awesome-hasura)
+- [!Awesome Hasura](#)
+  - [Contents](#contents)
+  - [Hasura](#hasura)
+  - [Tools and Extensions](#tools-and-extensions)
+  - [Built with Hasura](#built-with-hasura)
+  - [Tutorials](#tutorials)
+  - [Templates and Examples](#templates-and-examples)
+  - [Managed Services](#managed-services)
+  - [Blogs](#blogs)
+  - [Videos](#videos)
 
 ## Hasura
 
@@ -80,3 +85,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 - [Migrating from Firebase to Hasura](https://medium.com/@clapie.florent/how-i-scale-firebase-by-migrating-to-graphql-and-speed-up-my-development-by-10x-200b4a3068a0?sk=cf4a748bfa93d061ad84fd194d5e87bb)
 - [Resetting Hasura Migrations](https://blog.hasura.io/resetting-hasura-migrations/)
+
+## Videos
+
+- [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
